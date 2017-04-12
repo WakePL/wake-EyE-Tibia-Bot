@@ -7,3 +7,4 @@ Now its clean and safe u can compile it using netbeans adding jar lib. jintellit
 Have fun bot is based on screen scans its 1 pixel that is 1.2 %  of 100 % whole health bar 
 you can change everything
 in code.
+Compiled .zip runable 1.2 pix % version is uploaded to.
