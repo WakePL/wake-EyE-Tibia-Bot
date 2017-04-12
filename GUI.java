@@ -57,7 +57,7 @@ public class GUI extends javax.swing.JFrame implements HotkeyListener {
     Color sq3;
     Color sq3Old;
     //--------------------------------------------------------------------------Size Objects
-    final static double pixelPercent = 1.77;
+    final static double pixelPercent = 1.2;
     //--------------------------------------------------------------------------Locations
     int hpLeftX;
     int hpLeftY;
